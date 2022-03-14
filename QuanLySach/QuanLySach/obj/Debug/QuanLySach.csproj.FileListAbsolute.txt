@@ -1,0 +1,14 @@
+E:\C#\Lập trình Desktop\QuanLySach\QuanLySach\bin\Debug\QuanLySach.exe.config
+E:\C#\Lập trình Desktop\QuanLySach\QuanLySach\bin\Debug\QuanLySach.exe
+E:\C#\Lập trình Desktop\QuanLySach\QuanLySach\bin\Debug\QuanLySach.pdb
+E:\C#\Lập trình Desktop\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.AssemblyReference.cache
+E:\C#\Lập trình Desktop\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.SuggestedBindingRedirects.cache
+E:\C#\Lập trình Desktop\QuanLySach\QuanLySach\obj\Debug\QuanLySach.FormSach.resources
+E:\C#\Lập trình Desktop\QuanLySach\QuanLySach\obj\Debug\QuanLySach.Properties.Resources.resources
+E:\C#\Lập trình Desktop\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.GenerateResource.cache
+E:\C#\Lập trình Desktop\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.CoreCompileInputs.cache
+E:\C#\Lập trình Desktop\QuanLySach\QuanLySach\obj\Debug\QuanLySach.exe
+E:\C#\Lập trình Desktop\QuanLySach\QuanLySach\obj\Debug\QuanLySach.pdb
+E:\C#\Lập trình Desktop\QuanLySach\QuanLySach\obj\Debug\QuanLySach.UI.FormNhaXuatBanNew.resources
+E:\C#\Lập trình Desktop\QuanLySach\QuanLySach\obj\Debug\QuanLySach.UI.FormSachNew.resources
+E:\C#\Lập trình Desktop\QuanLySach\QuanLySach\obj\Debug\QuanLySach.UI.FormChinhSua.resources
